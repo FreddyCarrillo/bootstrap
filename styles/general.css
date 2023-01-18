@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed&display=swap');
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+h1 {
+    font-weight: 300;
+    letter-spacing: 1.5px;
+    font-family: 'Barlow Condensed', sans-serif;
+    text-align: center;
+    margin-top: 23px;
+    font-size: 47px;
+    color: green;
+}
